@@ -466,6 +466,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [Anthropic Skills Repository](https://github.com/anthropics/skills) - Official example skills
 - [Claude Community](https://community.anthropic.com) - Discuss skills with other users
 - [Skills Marketplace](https://claude.ai/marketplace) - Discover and share skills
+- [van-skills](https://github.com/waysvan077/van-skills) - Curated library of 394 ready-to-use agent skills, each security-audited (SkillSpector) before inclusion
 
 ### Inspiration & Use Cases
 
